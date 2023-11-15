@@ -8,4 +8,3 @@ def reverse_list(lst):
 
 vals = [7, -3, 12, 9]
 reverse_list(vals)
-print(vals)  # This should print [9, 12, -3, 7]
